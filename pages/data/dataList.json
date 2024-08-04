@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "created_at": 1717291329000,
+        "Name_Of_Project": "Poster",
+        "Collection_ID": 6508,
+        "Item_ID": "665a00d84a5724d556674714",
+        "Imaage": "https://img.freepik.com/premium-vector/simple-geometric-poster-swiss-style-geometric-composition-book-covers-posters-flyers-magazines-annual-reports_713078-968.jpg?w=826",
+        "Hover_Effect_Collection": "everything-is-designed",
+        "Links": "http://ipsitas-portfolio.webflow.io/paintaings",
+        "Mobile_subtitle": "Poster",
+        "Paragraph": "'Everything Is Designed' - Ron Wisley "
+    },
+    {
+    "id": 2,
+    "created_at": 1717291329000,
+    "Name_Of_Project": "Temporibus Magnam Facere",
+    "Collection_ID": 6508,
+    "Item_ID": "6508a5795fc00e9eae0396cd",
+    "Imaage": "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/6512c7ec2d42dc4efca64786_pexels-ready-made-3847646.jpg",
+    "Hover_Effect_Collection": "in-cum-consequatur-quos",
+    "Links": "http://ipsitas-portfolio.webflow.io/book-cover",
+    "Mobile_subtitle": "Book Cover",
+    "Paragraph": "'A book cover is a distillation. It is a haiku of the story.' -Chip Kidd"
+    },
+    {
+    "id": 3,
+    "created_at": 1717291329000,
+    "Name_Of_Project": "Corporis Quis Fuga",
+    "Collection_ID": 6508,
+    "Item_ID": "6508a57a5fc00e9eae039743",
+    "Imaage": "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/6512c7a9e9a5aec4e4a99293_pexels-drew-williams-2608496.jpg",
+    "Hover_Effect_Collection": "facilis-qui",
+    "Links": "http://ipsitas-portfolio.webflow.io/magazine-design",
+    "Mobile_subtitle": "Magazine",
+    "Paragraph": "“Good design is good business.” — Thomas Watson Jr."
+    },
+    {
+        "id": 4,
+        "created_at": 1717291329000,
+        "Name_Of_Project": "Cumque Quis Sed",
+        "Collection_ID": 6508,
+        "Item_ID": "6508a5795fc00e9eae038e0d",
+        "Imaage": "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/6513225ea5c06841c22638fa_pexels-lumn-587958.jpg",
+        "Hover_Effect_Collection": "optio-soluta-cumque-quas",
+        "Links": "http://ipsitas-portfolio.webflow.io/paintaings",
+        "Mobile_subtitle": "Paintaing",
+        "Paragraph": "“Painting is just another way of keeping a diary.” — Pablo Picasso"
+    },
+    {
+    "id": 5,
+    "created_at": 1717291329000,
+    "Name_Of_Project": "Consequatur Velit",
+    "Collection_ID": 6508,
+    "Item_ID": "6508a57a5fc00e9eae039741",
+    "Imaage": "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/6512c742d7f1d1333a57c4c3_pexels-ovan-57690.jpg",
+    "Hover_Effect_Collection": "amet-qui",
+    "Links": "http://ipsitas-portfolio.webflow.io/logo",
+    "Mobile_subtitle": "Logo",
+    "Paragraph": "“Logo is the silent ambassador of your brand.” — Paul Rand"
+    }
+    ]

@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "_cid": "650d6dd3fa1eb197d0fdc58b",
+        "_archived": false,
+        "_draft": false,
+        "name": "Poster",
+        "images": [
+          "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/65f33225aa65c0d20b4cf07d_2.png",
+          "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/65f331c4d3f2055ea3f0e65b_1.png",
+          "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/6512c21376176c540230ee43_POSTER%20(1).jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "_cid": "650d6dd3fa1eb197d0fdc58b",
+        "_archived": false,
+        "_draft": false,
+        "name": "Book Covers",
+        "images": [
+          "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/6512c5dbc32768a723ae3067_book%20cover%202%20(1).jpg",
+          "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/665b356130c361667928298b_Oliver%20rwist.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "_cid": "650d6dd3fa1eb197d0fdc58b",
+        "_draft": false,
+        "_archived": false,
+        "name": "Magazines",
+        "images": [
+          "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/65f9c834ce1c46eabaf5be33_2.png",
+          "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/665b35a27ad9314b98eb5a38_Painting%202.jpeg"
+        ]
+    },
+    {
+        "id": 4,
+        "_cid": "650d6dd3fa1eb197d0fdc58b",
+        "_draft": false,
+        "_archived": false,
+        "name": "Painting",
+        "images": [
+          "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/651ec1e88698371ad6c05389_WhatsApp%20Image%202023-09-27%20at%2011.15.45%20AM.jpeg",
+          "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/665b35a27ad9314b98eb5a38_Painting%202.jpeg"
+        ]
+    },
+    {
+        "id": 5,
+        "_cid": "650d6dd3fa1eb197d0fdc58b",
+        "_draft": false,
+        "_archived": false,
+        "name": "Logos",
+        "images": [
+          "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/6512c278b8cbcd755886d4da_Screenshot%202023-09-23%20003735%20(1).png",
+          "https://uploads-ssl.webflow.com/6508a56ed49af49ca035c889/6512c2855e01d9c7941f85da_Screenshot%202023-09-23%20002646%20(1).png"
+        ]
+    }
+
+  ]
