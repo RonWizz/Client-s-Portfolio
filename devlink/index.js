@@ -13,4 +13,3 @@ export * from "./About";
 export * from "./DevLinkProvider";
 export * from "./Dynamic";
 export * from "./Hero";
-export * from "../pages/Portfolio";
