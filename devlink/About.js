@@ -128,7 +128,7 @@ export function About({ as: _Component = _Builtin.Section }) {
                   data-w-id="c6e15c9e-5187-ee50-ff55-c4614a1020ac"
                 >
                   {
-                    '" I am ipsita student of bachelor of fine arts from painting department of amity university Kolkata. I love to draw drawing and painting in any mediums. I also work on little bit on graphic designing . I try my to come up with new ideas to help my clients"'
+                    '" I am Ipsita Roy, a student of Amity University Kolkata, recently graduated with a Bachelor of Fine arts from the painting in any medium. I also work on Graphic Designing. I try my best to come up with new ideas to help my clients"'
                   }
                 </_Builtin.Emphasized>
               </_Builtin.Strong>
